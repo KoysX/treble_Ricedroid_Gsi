@@ -1,1 +1,1 @@
-# RiceDroid_Gsi_patches-
+# RiceDroid_Gsi_patches
